@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial;
+}
+
+.slides ul li h4 {
+  margin-bottom: 0 !important;
+}
+
+.server-img {
+  max-width: 250px !important;
+}
+
+.icon {
+  height: 30px !important;
+  margin: 0 !important;
+}
